@@ -1006,7 +1006,7 @@ main {
   background: white;
   position: relative;
 }
-main:nth-last-child(3) {
+main:nth-last-child(2) {
   margin-bottom: 50vh;
 }
 footer {
