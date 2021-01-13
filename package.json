@@ -1,0 +1,35 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "My very own personal website. Basically this is just a résumé.",
+  "main": "index.js",
+  "dependencies": {
+    "stylelint": "^13.8.0",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhiiStaryk/homepage.git"
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "homepage",
+    "resume",
+    "gh-pages",
+    "html",
+    "css",
+    "binary-studio-academy",
+    "bsa20"
+  ],
+  "author": "Serhii Staryk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SerhiiStaryk/homepage/issues"
+  },
+  "homepage": "https://github.com/SerhiiStaryk/homepage#readme"
+}
