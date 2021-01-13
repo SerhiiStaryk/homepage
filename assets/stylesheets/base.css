@@ -354,7 +354,6 @@ article {
    * https://opensource.org/licenses/MIT
    */
 .grid {
-  display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: stretch;
