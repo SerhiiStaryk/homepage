@@ -225,11 +225,6 @@ input {
   font-size: 100%;
   line-height: 1.15;
   margin: 0;
-}
-
-/* Show the overflow in IE and Edge */
-button,
-input {
   overflow: visible;
 }
 
