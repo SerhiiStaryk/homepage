@@ -1,9 +1,11 @@
 ::-moz-selection {
   background: yellow;
 }
+
 ::selection {
   background: yellow;
 }
+
 *,
 *:before,
 *:after {
